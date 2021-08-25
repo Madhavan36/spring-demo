@@ -1,11 +1,10 @@
 accelerator:
-  displayName: Spring-Pet-clinic-accelerator-demo
-  description: ""
-  iconUrl: https://raw.githubusercontent.com/simple-starters/icons/master/icon-tanzu-light.png
+  displayName: spring-petclinic
+  description: Demo app
+  iconUrl: https://raw.githubusercontent.com/sample-accelerators/icons/master/icon-tanzu-light.png
   tags:
-  - demo
-  - accelerator
-  - spring
+  - lang:java
+  - type:App
   options:
   - name: optionName
     label: Nice Label
