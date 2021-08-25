@@ -1,0 +1,15 @@
+accelerator:
+  displayName: spring-petclinic
+  description: Demo app
+  iconUrl: https://raw.githubusercontent.com/sample-accelerators/icons/master/icon-tanzu-light.png
+  tags:
+  - lang:java
+  - type:App
+  options:
+  - name: optionName
+    label: Nice Label
+    display: true
+    defaultValue: ""
+engine:
+  include:
+  - '**'
